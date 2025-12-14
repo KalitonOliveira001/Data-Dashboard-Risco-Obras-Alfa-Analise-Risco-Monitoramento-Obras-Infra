@@ -1,0 +1,151 @@
+incident_id,lot_id,date,severity,type,downtime_hours
+07f8d4f0-f3ea-4184-a8f4-e3ceadedda80,LOTE-01,2023-01-15,Baixa,Paralisação por Clima,2.3
+702c1821-c804-4fb7-ad97-3b679b89e5cb,LOTE-01,2023-01-04,Crítica,Paralisação por Clima,4.0
+a52964ff-c74c-4890-bc6a-3174113634a5,LOTE-01,2023-02-06,Crítica,Paralisação por Clima,2.8
+084a6780-9136-41f8-b310-46dc6202bee6,LOTE-02,2023-03-01,Alta,Acidente Grave,4.7
+5ef787b8-f2e6-495f-b32e-2016add702c9,LOTE-02,2023-02-06,Alta,Falha de Máquina,7.8
+233ffc82-92ec-49af-93ae-c376c359810a,LOTE-02,2023-02-22,Média,Acidente Grave,7.7
+4758367b-a649-4cdc-907b-907265e58f34,LOTE-05,2023-01-25,Baixa,Falha de Máquina,2.1
+2fa0d842-bc55-400b-86a2-41af1d0af7f7,LOTE-05,2023-02-19,Crítica,Paralisação por Clima,1.4
+1e2595b8-8fc9-486b-a9dd-ebf563119aca,LOTE-02,2023-01-26,Média,Acidente Leve,7.5
+36ee1640-723e-4466-b43b-d27f42a259a6,LOTE-01,2023-04-09,Crítica,Falha de Máquina,5.4
+ffa623d0-ea9e-4c8d-b1a8-b71f491b90e9,LOTE-01,2023-02-18,Média,Falha de Máquina,3.6
+12f5131a-da52-42ee-a2bf-18f51f652a87,LOTE-02,2023-02-14,Alta,Falha de Máquina,3.9
+ff4c96d6-71f2-4e8f-b69f-68c3e60fd420,LOTE-04,2023-01-09,Alta,Acidente Leve,5.9
+fc902838-d874-4408-b7b2-17c7ae92ea71,LOTE-03,2023-02-01,Crítica,Paralisação por Clima,7.2
+8ccc9cea-109f-48ee-b5a4-720058f0dd23,LOTE-03,2023-02-23,Alta,Paralisação por Clima,4.5
+28524385-d9f2-4d0d-8cc9-f5f2e42e5037,LOTE-03,2023-03-12,Média,Falha de Máquina,7.7
+2c913a7c-a340-4f08-b341-91b8ed6522b4,LOTE-02,2023-03-20,Crítica,Atraso no Suprimento,6.4
+fc31a597-1f11-4c0f-b967-e60a823dd107,LOTE-05,2023-01-20,Baixa,Falha de Máquina,3.8
+7e7838c9-ca55-438b-bc9a-be10238d6f44,LOTE-02,2023-01-03,Crítica,Acidente Leve,2.3
+77a7e8b7-5e70-465f-9280-c5aa8dd4595b,LOTE-04,2023-03-21,Baixa,Falha de Máquina,5.3
+e25df9a8-9ca8-45c4-a138-afe08d38bbd8,LOTE-04,2023-01-09,Crítica,Paralisação por Clima,4.7
+b788f5d1-ffe5-45f6-a5ed-cfe34f2dad3f,LOTE-02,2023-03-13,Crítica,Falha de Máquina,2.3
+68d0a2a8-c4e7-47dd-a929-de738693fd9d,LOTE-05,2023-03-23,Crítica,Acidente Grave,7.9
+5128b9b1-f8ed-40ca-a015-6a7212e153a6,LOTE-02,2023-03-05,Média,Falha de Máquina,3.4
+8471b4b0-ae1b-4f69-b740-d83173318749,LOTE-01,2023-02-04,Baixa,Falha de Máquina,5.7
+8d2238e6-c7bf-4fbc-943c-dd6de0c1ff1e,LOTE-03,2023-03-05,Alta,Atraso no Suprimento,4.3
+21084dd9-f75d-4e3c-848d-56502e9522d6,LOTE-03,2023-02-12,Baixa,Acidente Grave,1.2
+d4d60735-0e2f-4958-9e43-1e06e9247069,LOTE-03,2023-01-13,Alta,Atraso no Suprimento,5.5
+2976aab2-2a26-4770-8ddb-1b36272c0588,LOTE-04,2023-02-01,Alta,Acidente Leve,2.3
+f28e4122-5894-47f1-b9b8-6bb2b596ca7c,LOTE-05,2023-04-04,Alta,Acidente Leve,3.1
+143029a9-d88f-4c94-88b7-63d5e519dd7e,LOTE-01,2023-01-25,Crítica,Acidente Leve,1.0
+46426c45-8d03-417a-b4d3-75c1a29319fa,LOTE-01,2023-01-13,Alta,Atraso no Suprimento,1.3
+17eaec83-8892-442f-9d4b-2bf94d85e9c7,LOTE-01,2023-02-19,Crítica,Falha de Máquina,4.7
+94a53fde-f10d-47c8-9780-c2152b2bb8e9,LOTE-04,2023-01-16,Média,Acidente Leve,7.4
+e6e987ca-b87b-4384-9fdd-de2ea8a2b7ad,LOTE-02,2023-03-01,Alta,Acidente Grave,2.3
+0a8bb5b4-9049-4583-ac86-a890d7b00bdc,LOTE-02,2023-03-23,Crítica,Falha de Máquina,6.5
+f2d3f761-0ba3-4279-94cb-056407437c3b,LOTE-04,2023-03-05,Baixa,Acidente Leve,2.2
+35f789bc-a6b0-4458-83c0-7d4393a74792,LOTE-01,2023-03-17,Alta,Atraso no Suprimento,3.0
+07c0d116-a394-4d54-9e3c-5a886aa56e6d,LOTE-04,2023-02-19,Alta,Falha de Máquina,4.8
+a4540937-4a27-4bf2-8baa-f744a08dd21b,LOTE-03,2023-04-05,Crítica,Acidente Leve,4.9
+ceae71cf-ce00-4af0-beb0-51817ba24588,LOTE-02,2023-03-09,Média,Atraso no Suprimento,6.5
+b048faa1-12ae-4c22-b41b-77f54c24a053,LOTE-01,2023-01-06,Crítica,Falha de Máquina,6.2
+76e5ae78-7bf7-41d3-aa66-2fce7089fc6d,LOTE-05,2023-01-21,Crítica,Paralisação por Clima,5.6
+dc8a4922-5005-480f-a4c7-78a59b4e164b,LOTE-02,2023-03-13,Alta,Acidente Grave,1.9
+586a346a-dc5b-47d1-bcef-1972bbf483ce,LOTE-02,2023-04-07,Crítica,Paralisação por Clima,4.1
+83d5bceb-5edb-48ee-82ba-f0e02179e3f0,LOTE-05,2023-02-25,Crítica,Acidente Grave,4.4
+1f5d988f-776a-4f09-bde2-885951b1943c,LOTE-05,2023-01-27,Alta,Acidente Grave,2.4
+0cf477ef-18c8-4616-a410-8e9a3f779cae,LOTE-03,2023-01-29,Crítica,Atraso no Suprimento,4.8
+6b0ae0e3-9d89-4047-9d39-d7936257a4a2,LOTE-01,2023-01-25,Baixa,Acidente Leve,3.6
+d0401587-28e2-43bc-a6fd-d7afdd84cacc,LOTE-04,2023-02-02,Crítica,Acidente Leve,4.0
+3098f7b2-500e-45c0-b89b-df7f93e34c35,LOTE-01,2023-03-17,Alta,Falha de Máquina,5.0
+7781321e-83c5-41cb-bef7-d9ea7f8e5483,LOTE-05,2023-02-19,Alta,Acidente Leve,1.9
+170d7507-05ee-41d4-bf53-a88e4efc8248,LOTE-02,2023-04-04,Crítica,Falha de Máquina,2.4
+3da06476-f778-4676-b50d-112e8164ceec,LOTE-03,2023-01-22,Alta,Falha de Máquina,3.2
+4806f804-0cf0-474c-8c74-dc0f5a575539,LOTE-01,2023-02-18,Alta,Atraso no Suprimento,7.0
+ac2a4f71-a77d-45f1-97c4-fe9ce1e0fffc,LOTE-04,2023-02-16,Média,Falha de Máquina,2.0
+1b84edc3-d8e0-49de-8217-ea0e896490ab,LOTE-05,2023-02-12,Crítica,Acidente Leve,4.8
+5da39a73-ba3d-47ff-83b4-7ee5e1e89e7e,LOTE-02,2023-03-17,Crítica,Acidente Grave,7.5
+0d18ab95-668c-4477-8b95-017c5dae1201,LOTE-03,2023-02-26,Alta,Acidente Leve,1.6
+49e1cd13-8da0-4495-9cce-5ba931d4ee09,LOTE-02,2023-01-08,Crítica,Paralisação por Clima,7.5
+8cc36f3b-c3af-4cfe-b34a-6ca38116e3fc,LOTE-05,2023-01-28,Média,Falha de Máquina,2.3
+9c6d52d5-ae2e-4af9-9f8c-c29ffd350c5f,LOTE-01,2023-01-12,Média,Paralisação por Clima,0.6
+5f89ed12-64d6-4fbf-98c0-1e2bf99f0704,LOTE-01,2023-03-20,Alta,Acidente Leve,2.5
+5d986115-f05e-4efe-8ece-112856ce4b42,LOTE-04,2023-03-16,Baixa,Paralisação por Clima,0.8
+66c14dca-8255-4a61-9a3b-031932f57510,LOTE-01,2023-02-19,Alta,Falha de Máquina,7.1
+b6adf48b-2314-40c8-89f6-44050b990034,LOTE-03,2023-02-02,Alta,Falha de Máquina,5.0
+2620f9a9-74fd-43d1-84f2-fd0f79474bfa,LOTE-03,2023-03-02,Média,Falha de Máquina,7.5
+ee6e2e72-53f5-41dc-a3c8-afdb83f82f16,LOTE-02,2023-03-02,Baixa,Atraso no Suprimento,2.1
+9dd2f9de-fd98-4e33-a498-abe92999bbef,LOTE-01,2023-03-15,Baixa,Atraso no Suprimento,3.8
+81df6517-561c-4210-97fe-56c54c9a9f24,LOTE-01,2023-03-24,Crítica,Acidente Grave,1.2
+901bcdef-b56f-48ce-bd66-971e88476c56,LOTE-05,2023-01-30,Alta,Atraso no Suprimento,5.7
+54cc1e2a-5e4c-4287-8442-51dbd0d4ea67,LOTE-02,2023-03-08,Alta,Falha de Máquina,7.6
+4ec3f970-956d-40e4-aaa2-6216fada98f5,LOTE-04,2023-03-20,Média,Atraso no Suprimento,3.9
+a1173719-b023-40ea-9f41-e335b9aed8e4,LOTE-01,2023-01-03,Alta,Acidente Leve,2.7
+a7d4cf50-f791-41e5-83f9-cd6b797ebe87,LOTE-01,2023-03-19,Baixa,Atraso no Suprimento,2.4
+3a4045dd-93df-4907-9416-e4dcc6b28def,LOTE-05,2023-03-13,Baixa,Atraso no Suprimento,1.9
+86341718-2ba6-4db3-bafe-b1149561c813,LOTE-04,2023-03-04,Alta,Paralisação por Clima,4.3
+61542765-d756-4a9c-864c-96479ea7017c,LOTE-04,2023-01-15,Alta,Paralisação por Clima,4.5
+9293f705-0815-4147-be00-980eae441e21,LOTE-02,2023-04-04,Alta,Acidente Grave,5.1
+70e7e756-04d9-445e-b0d7-3df71c221cea,LOTE-01,2023-02-01,Alta,Falha de Máquina,3.4
+34323ec6-b0c4-401c-a9b7-c0fa26c432f6,LOTE-05,2023-02-10,Média,Atraso no Suprimento,6.5
+78bb22a5-eba7-42d2-9c89-d374c66495a7,LOTE-03,2023-03-28,Alta,Acidente Grave,4.1
+b4adaf89-0ff1-4a9f-ba37-0623bc5fd4dd,LOTE-03,2023-01-14,Crítica,Falha de Máquina,7.8
+ff84faef-5336-423b-8f96-468535145890,LOTE-04,2023-03-07,Alta,Acidente Grave,1.4
+f4e95734-5052-4700-a077-96a38685abaa,LOTE-05,2023-01-18,Alta,Acidente Grave,5.5
+8bd88fcd-57a2-4e4e-887b-03e5e980f808,LOTE-05,2023-02-05,Média,Atraso no Suprimento,3.4
+ae455cc6-b88e-430f-9e1e-994ac5a11f5c,LOTE-02,2023-03-05,Alta,Acidente Grave,4.8
+7bf33a34-9c2d-4a97-83ad-3d62b17cfb21,LOTE-01,2023-01-20,Alta,Falha de Máquina,5.2
+4c6a70f4-8ede-444d-876c-f68c3f1be0d0,LOTE-02,2023-01-23,Baixa,Falha de Máquina,6.9
+c56bad4c-4c30-47c4-bb75-6923f910abb3,LOTE-04,2023-01-29,Crítica,Acidente Leve,1.1
+7d2f4e58-b47a-4c5b-b0b3-901535102852,LOTE-05,2023-02-01,Média,Atraso no Suprimento,6.2
+ef3a6f27-ef06-4ccb-8f7c-1d59594b2a3a,LOTE-02,2023-03-20,Crítica,Paralisação por Clima,5.4
+92cf6021-1f33-442d-89ac-908746015028,LOTE-01,2023-03-08,Baixa,Acidente Leve,3.6
+65001423-faeb-4d19-a550-8ea26133a34d,LOTE-02,2023-03-23,Média,Acidente Grave,0.7
+257f7595-cdfb-4db9-85e7-8b23f4613f09,LOTE-03,2023-01-29,Baixa,Acidente Grave,8.0
+143b45e3-b6d1-46bb-b48f-709c49a22441,LOTE-01,2023-02-04,Alta,Acidente Grave,3.8
+bf519362-41a6-4fed-a7ed-c8d8713f8f8c,LOTE-01,2023-02-17,Baixa,Paralisação por Clima,7.8
+4568f426-89e0-4e22-93f4-a49b33baba88,LOTE-03,2023-04-03,Baixa,Falha de Máquina,3.1
+1bf645f6-2324-4211-8588-fc1bb2384849,LOTE-01,2023-03-02,Média,Atraso no Suprimento,5.8
+0cfef683-3e11-4afe-bd41-96fe963a8617,LOTE-05,2023-03-08,Média,Acidente Leve,4.3
+3b9b2d45-a350-45e4-b9c5-9df987f255d6,LOTE-04,2023-01-06,Alta,Atraso no Suprimento,7.3
+78ef7666-b7a4-4719-948e-1f6b69ce1e4e,LOTE-02,2023-01-10,Baixa,Falha de Máquina,3.8
+f6eab3a0-0153-4221-a331-0a28c550eca8,LOTE-02,2023-02-24,Crítica,Acidente Grave,3.6
+a723fb72-682b-463a-a86e-d390edd97a1a,LOTE-04,2023-04-03,Média,Paralisação por Clima,7.8
+a689b424-7a3a-40e1-b9c7-73a0e0decc3d,LOTE-01,2023-01-20,Alta,Acidente Grave,6.6
+4910fade-5238-4bf2-8988-e418f6c31218,LOTE-02,2023-03-05,Alta,Acidente Leve,4.1
+a6fd0cb1-16e6-45c0-84cb-294fe86e8e63,LOTE-05,2023-02-26,Crítica,Acidente Grave,3.7
+d9af6e09-b91e-4d6e-bd1a-8f4b88ffbd40,LOTE-05,2023-04-03,Baixa,Falha de Máquina,1.4
+6afa828c-2cd1-4b9f-abe5-841fe9c96c52,LOTE-03,2023-03-29,Média,Paralisação por Clima,6.1
+094d916d-eb6d-4fed-af15-8d5b2d007d05,LOTE-04,2023-04-09,Alta,Acidente Grave,2.0
+2fb21e66-7ed1-4aab-89b7-c9bc65a16fa9,LOTE-05,2023-04-03,Alta,Acidente Grave,3.4
+4a1a81f5-ed10-4004-9f4e-713ef64e3dfc,LOTE-01,2023-03-28,Baixa,Paralisação por Clima,7.2
+9a4ffc0c-9165-42ed-8c63-6e95025f5543,LOTE-02,2023-01-11,Alta,Acidente Grave,3.9
+74503887-48d9-4846-95c5-51fcfba57cc8,LOTE-04,2023-04-08,Crítica,Acidente Leve,7.2
+e3a68a70-7e71-4b55-8639-bd418b15bd94,LOTE-02,2023-04-03,Média,Paralisação por Clima,3.5
+45d8a6ad-77d0-459e-8114-14f8d9df0d0e,LOTE-04,2023-01-20,Alta,Atraso no Suprimento,2.7
+bb2aa146-2999-494c-94a7-b69b1cd66b09,LOTE-05,2023-02-15,Média,Acidente Grave,3.5
+039b058c-2faa-4e0b-b7f6-0cdf41dc1c60,LOTE-03,2023-03-14,Média,Acidente Grave,2.8
+aca58d95-915a-4c30-8b86-b5a1ca6fbff8,LOTE-01,2023-03-16,Crítica,Atraso no Suprimento,5.0
+a383889a-db2c-4ac8-9c67-83932ced3c0d,LOTE-01,2023-03-30,Baixa,Paralisação por Clima,5.6
+53f30073-83e9-4ef4-ad7d-f5d0d3b59af7,LOTE-04,2023-01-09,Média,Acidente Leve,5.5
+fb4fb88a-2f4d-4219-986b-2880ab545a15,LOTE-04,2023-01-14,Alta,Falha de Máquina,1.3
+01bf9e73-3f80-4385-af92-40b652d78f10,LOTE-02,2023-01-26,Baixa,Falha de Máquina,4.5
+4459bd6e-c0f6-4229-b25d-42593c4b1eec,LOTE-04,2023-04-05,Alta,Paralisação por Clima,3.7
+92a81713-b90e-444b-951c-25d54d4c5280,LOTE-04,2023-01-02,Crítica,Falha de Máquina,3.8
+3c7e5368-b159-4847-9c0b-9b10a757cb10,LOTE-05,2023-01-07,Média,Falha de Máquina,3.3
+28e333b6-4e8a-4c4b-b724-20411e43fbd2,LOTE-04,2023-02-10,Crítica,Acidente Grave,2.9
+e346f415-e526-4a2b-ac50-ace480a52e65,LOTE-04,2023-03-11,Baixa,Acidente Leve,1.8
+a38295d3-1e0e-4546-b0b6-dedf4f9c4027,LOTE-05,2023-04-01,Alta,Atraso no Suprimento,1.7
+3889936a-9d58-47e8-9e17-5b664b87959f,LOTE-01,2023-01-22,Crítica,Atraso no Suprimento,3.8
+74797b61-2737-4b52-ba6a-210722319050,LOTE-04,2023-03-16,Alta,Acidente Grave,1.0
+b3b26337-6a74-4bb7-9fa5-e0aa9b11b530,LOTE-04,2023-02-24,Baixa,Atraso no Suprimento,1.3
+cd4f8b2b-899a-4252-81e1-b94a78883058,LOTE-03,2023-03-07,Baixa,Acidente Leve,4.6
+ae2ae341-3f59-44f2-8309-3b6e37e9d2e2,LOTE-05,2023-03-16,Alta,Paralisação por Clima,3.1
+86879aa9-14f5-43d0-8991-2032df85c777,LOTE-04,2023-02-14,Crítica,Falha de Máquina,5.7
+ead08c89-13fe-4a29-9c9d-eee0b42a0456,LOTE-04,2023-02-25,Alta,Atraso no Suprimento,2.0
+e723ada3-8c32-4db2-942a-895e0fcf601f,LOTE-01,2023-02-20,Crítica,Falha de Máquina,4.3
+2a1f1b61-265c-49d9-8962-8f6e929c93b3,LOTE-05,2023-02-02,Alta,Acidente Grave,4.2
+ae27d432-1dc1-47eb-b11c-767385351a69,LOTE-05,2023-01-21,Baixa,Acidente Grave,3.4
+e61d9cde-1747-4387-bd23-d47995492a82,LOTE-01,2023-02-20,Crítica,Acidente Leve,6.9
+21c71aa3-7414-43b5-8e3e-25f2cf0671c7,LOTE-03,2023-02-20,Baixa,Acidente Grave,5.5
+8f0d5540-0ec7-4662-905c-7bdd74f0beae,LOTE-03,2023-02-15,Crítica,Atraso no Suprimento,6.3
+0592bfa5-b928-423f-8ee4-334ece920136,LOTE-03,2023-02-09,Crítica,Falha de Máquina,3.3
+37c86152-beed-4af9-80c5-9f30d1031424,LOTE-01,2023-02-27,Baixa,Acidente Leve,5.1
+b34c6c73-5833-4b30-ac77-6e950b981ccd,LOTE-03,2023-01-07,Média,Paralisação por Clima,4.5
+e4eb8000-ef40-4162-8f6c-e9bffe7ee362,LOTE-05,2023-01-07,Baixa,Acidente Leve,6.3
+497ec6d1-081f-46dc-b8d9-a88aef0bea4f,LOTE-03,2023-02-10,Baixa,Paralisação por Clima,4.0
+a43afb7a-c40d-4874-a2ab-7752c4db5a62,LOTE-04,2023-04-07,Crítica,Falha de Máquina,0.9
+5fdcabbf-6b9c-471c-b6ba-745ba55871e3,LOTE-05,2023-04-09,Baixa,Acidente Leve,1.2
+eac80da1-de9f-4f5b-b2d3-545861ea2f30,LOTE-01,2023-03-31,Média,Falha de Máquina,5.4

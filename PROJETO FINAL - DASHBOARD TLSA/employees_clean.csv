@@ -1,0 +1,101 @@
+employee_id,lot_id,name,role,contract_type,salary_BRL
+EMP-001,LOTE-02,Heloisa Castro,Técnico de Segurança,CLT,8313
+EMP-002,LOTE-01,Ana Sophia Andrade,Operador de Máquina,CLT,7282
+EMP-003,LOTE-03,Antônio Dias,Técnico de Segurança,CLT,10909
+EMP-004,LOTE-03,Cauã Barbosa,Mestre de Obras,Terceirizado,10228
+EMP-005,LOTE-04,Sr. Marcos Vinicius Castro,Auxiliar Geral,Terceirizado,13234
+EMP-006,LOTE-03,Srta. Ayla Fernandes,Mestre de Obras,Terceirizado,4383
+EMP-007,LOTE-02,Rafaela Santos,Auxiliar Geral,CLT,4178
+EMP-008,LOTE-04,Pedro Rezende,Engenheiro Civil,Terceirizado,12246
+EMP-009,LOTE-01,Pedro Henrique Castro,Operador de Máquina,CLT,13210
+EMP-010,LOTE-01,Carlos Eduardo Farias,Técnico de Segurança,Terceirizado,8562
+EMP-011,LOTE-01,Gabriel Jesus,Operador de Máquina,CLT,4304
+EMP-012,LOTE-03,Dra. Ágatha da Luz,Mestre de Obras,Terceirizado,14713
+EMP-013,LOTE-01,Larissa da Rosa,Engenheiro Civil,Terceirizado,6306
+EMP-014,LOTE-05,Calebe Aragão,Mestre de Obras,CLT,4109
+EMP-015,LOTE-04,Rebeca Cassiano,Operador de Máquina,Terceirizado,9586
+EMP-016,LOTE-04,Luiz Miguel Abreu,Auxiliar Geral,Terceirizado,5272
+EMP-017,LOTE-02,Aurora da Rocha,Técnico de Segurança,Terceirizado,8930
+EMP-018,LOTE-01,Pietra Costa,Engenheiro Civil,CLT,2720
+EMP-019,LOTE-01,Apollo Costela,Técnico de Segurança,Terceirizado,6542
+EMP-020,LOTE-03,João Vitor Barros,Mestre de Obras,CLT,14970
+EMP-021,LOTE-04,Bruna das Neves,Técnico de Segurança,Terceirizado,6124
+EMP-022,LOTE-02,Olivia Mendonça,Técnico de Segurança,CLT,6787
+EMP-023,LOTE-03,Julia Borges,Operador de Máquina,CLT,3071
+EMP-024,LOTE-02,Ísis Gomes,Auxiliar Geral,Terceirizado,12332
+EMP-025,LOTE-02,Léo Garcia,Técnico de Segurança,CLT,11449
+EMP-026,LOTE-01,Sr. Pietro Aparecida,Operador de Máquina,CLT,12200
+EMP-027,LOTE-02,Pedro Lucas Martins,Engenheiro Civil,CLT,10458
+EMP-028,LOTE-05,Henry Gabriel da Mata,Técnico de Segurança,CLT,9869
+EMP-029,LOTE-02,Ana Liz Cassiano,Engenheiro Civil,Terceirizado,10583
+EMP-030,LOTE-01,Dra. Aylla Barros,Técnico de Segurança,Terceirizado,8935
+EMP-031,LOTE-02,Manuella Nogueira,Operador de Máquina,Terceirizado,13673
+EMP-032,LOTE-05,Heloísa Novaes,Engenheiro Civil,CLT,5600
+EMP-033,LOTE-02,Mathias Moreira,Engenheiro Civil,CLT,8308
+EMP-034,LOTE-03,Zoe Rodrigues,Técnico de Segurança,CLT,7590
+EMP-035,LOTE-01,Isabela Melo,Mestre de Obras,CLT,10435
+EMP-036,LOTE-04,Bruno Gonçalves,Engenheiro Civil,CLT,10957
+EMP-037,LOTE-03,Srta. Sarah Oliveira,Mestre de Obras,Terceirizado,12935
+EMP-038,LOTE-01,Clara Campos,Engenheiro Civil,Terceirizado,2567
+EMP-039,LOTE-05,Emanuella Cavalcante,Engenheiro Civil,CLT,7465
+EMP-040,LOTE-04,Gael Cardoso,Mestre de Obras,Terceirizado,12426
+EMP-041,LOTE-03,Otávio Barros,Engenheiro Civil,CLT,11013
+EMP-042,LOTE-02,Maya Costa,Auxiliar Geral,CLT,6935
+EMP-043,LOTE-03,Clara Peixoto,Auxiliar Geral,CLT,6111
+EMP-044,LOTE-05,Liam Siqueira,Auxiliar Geral,CLT,3601
+EMP-045,LOTE-05,Caio Gomes,Técnico de Segurança,Terceirizado,10621
+EMP-046,LOTE-01,Maria Laura Novaes,Operador de Máquina,CLT,11138
+EMP-047,LOTE-01,Dr. Vicente Marques,Técnico de Segurança,CLT,8858
+EMP-048,LOTE-02,Vicente Viana,Técnico de Segurança,CLT,5036
+EMP-049,LOTE-05,Brenda Leão,Técnico de Segurança,Terceirizado,8669
+EMP-050,LOTE-02,Diogo Nunes,Mestre de Obras,Terceirizado,2636
+EMP-051,LOTE-02,Beatriz Caldeira,Auxiliar Geral,CLT,6731
+EMP-052,LOTE-05,Beatriz Viana,Engenheiro Civil,Terceirizado,13621
+EMP-053,LOTE-05,Vitor Gabriel Ferreira,Técnico de Segurança,Terceirizado,14970
+EMP-054,LOTE-01,Julia Gomes,Engenheiro Civil,Terceirizado,3768
+EMP-055,LOTE-04,Raquel Oliveira,Mestre de Obras,Terceirizado,8830
+EMP-056,LOTE-04,Olívia Andrade,Técnico de Segurança,Terceirizado,11136
+EMP-057,LOTE-02,João Guilherme Guerra,Auxiliar Geral,CLT,10479
+EMP-058,LOTE-04,Murilo Andrade,Técnico de Segurança,CLT,10450
+EMP-059,LOTE-05,Luísa Sales,Operador de Máquina,Terceirizado,14690
+EMP-060,LOTE-02,Benicio Souza,Técnico de Segurança,CLT,12227
+EMP-061,LOTE-01,Juliana Freitas,Auxiliar Geral,Terceirizado,13086
+EMP-062,LOTE-03,Lucca Vieira,Operador de Máquina,Terceirizado,14652
+EMP-063,LOTE-05,Leonardo da Mota,Operador de Máquina,Terceirizado,13803
+EMP-064,LOTE-05,Beatriz da Conceição,Auxiliar Geral,CLT,8785
+EMP-065,LOTE-02,Kaique Souza,Técnico de Segurança,CLT,3233
+EMP-066,LOTE-02,Luna da Mata,Mestre de Obras,Terceirizado,3078
+EMP-067,LOTE-02,Sra. Aurora Correia,Mestre de Obras,Terceirizado,4501
+EMP-068,LOTE-02,Hadassa Jesus,Auxiliar Geral,Terceirizado,4771
+EMP-069,LOTE-04,Sra. Stella Freitas,Mestre de Obras,CLT,14577
+EMP-070,LOTE-01,Théo Vieira,Auxiliar Geral,Terceirizado,14911
+EMP-071,LOTE-01,Benício das Neves,Mestre de Obras,Terceirizado,8881
+EMP-072,LOTE-02,Dra. Maria Luiza Carvalho,Técnico de Segurança,CLT,8482
+EMP-073,LOTE-02,Ana Cavalcanti,Engenheiro Civil,CLT,7284
+EMP-074,LOTE-04,Guilherme Araújo,Técnico de Segurança,CLT,14384
+EMP-075,LOTE-04,Arthur Gabriel Marques,Mestre de Obras,Terceirizado,5932
+EMP-076,LOTE-05,Luiz Miguel Santos,Operador de Máquina,CLT,13246
+EMP-077,LOTE-05,João Guilherme Freitas,Técnico de Segurança,Terceirizado,8057
+EMP-078,LOTE-01,Sofia Gonçalves,Mestre de Obras,Terceirizado,5928
+EMP-079,LOTE-02,Camila Rodrigues,Engenheiro Civil,Terceirizado,6821
+EMP-080,LOTE-03,Isaque Freitas,Operador de Máquina,Terceirizado,8649
+EMP-081,LOTE-04,Melissa Cavalcanti,Auxiliar Geral,CLT,4007
+EMP-082,LOTE-03,Marcela Ferreira,Engenheiro Civil,Terceirizado,8409
+EMP-083,LOTE-01,José Pedro Souza,Operador de Máquina,CLT,4340
+EMP-084,LOTE-03,Srta. Larissa Alves,Engenheiro Civil,CLT,9195
+EMP-085,LOTE-03,Ana Julia Castro,Operador de Máquina,Terceirizado,12797
+EMP-086,LOTE-05,Hadassa Câmara,Mestre de Obras,Terceirizado,8669
+EMP-087,LOTE-02,Heloisa Rocha,Operador de Máquina,CLT,13563
+EMP-088,LOTE-05,João Felipe Rezende,Técnico de Segurança,CLT,13394
+EMP-089,LOTE-02,Sophie Almeida,Mestre de Obras,Terceirizado,11154
+EMP-090,LOTE-01,Alexia Melo,Operador de Máquina,CLT,3010
+EMP-091,LOTE-03,Erick Peixoto,Operador de Máquina,CLT,7765
+EMP-092,LOTE-04,Henry Gabriel da Cunha,Engenheiro Civil,Terceirizado,14710
+EMP-093,LOTE-01,Lorena Silva,Operador de Máquina,CLT,14947
+EMP-094,LOTE-01,Dra. Kamilly Lima,Auxiliar Geral,CLT,10193
+EMP-095,LOTE-03,Marcela Marques,Técnico de Segurança,Terceirizado,12471
+EMP-096,LOTE-05,Henrique Martins,Auxiliar Geral,Terceirizado,9210
+EMP-097,LOTE-02,Vicente Pinto,Operador de Máquina,Terceirizado,3169
+EMP-098,LOTE-05,Bella Abreu,Técnico de Segurança,Terceirizado,11332
+EMP-099,LOTE-03,Maria Fernanda Novais,Técnico de Segurança,CLT,8999
+EMP-100,LOTE-04,Larissa da Rosa,Mestre de Obras,Terceirizado,6014
