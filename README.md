@@ -1,4 +1,3 @@
-# Data-Dashboard-Risco-Obras-Alfa-Analise-Risco-Monitoramento-Obras-Infra
 # 📊 Dashboard Estratégico de Monitoramento de Risco e Progresso em Obras (Estudo de Caso)
 
 Este repositório contém a documentação, os dados e o código-fonte de um projeto completo de Análise de Dados e Business Intelligence focado na gestão de riscos e monitoramento do progresso físico e financeiro de um grande projeto de infraestrutura.
@@ -42,20 +41,7 @@ A análise detalhada identificou problemas cruciais e forneceu soluções imedia
 
 ---
 
-## 🔗 Acesso ao Projeto
-
-Todo o projeto, incluindo o Dashboard interativo, o código de processamento e os dados brutos, está organizado em uma pasta no Google Drive.
-
-Para navegar e reproduzir o trabalho:
-
-1.  **Acesse a Pasta do Projeto (Google Drive):**
-    > **[COLE AQUI SEU LINK COMPLETO DO GOOGLE DRIVE]**
-2.  **Dashboard Interativo (Looker Studio):**
-    > O atalho do dashboard está na pasta do Drive.
-3.  **Código-Fonte:**
-    > O arquivo **`[NOME_DO_SEU_NOTEBOOK].ipynb`** (Google Colab) está na pasta para revisão da metodologia de processamento dos dados.
-
----
-
 #### 👨‍💻 Autor
-[Seu Nome / Seu Contato de Portfólio]
+[Káliton Oliveira
+linkedin
+https://www.linkedin.com/in/k%C3%A1liton-thyago-marcelino-de-oliveira-31290b356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
